@@ -5,3 +5,5 @@ Les commandes de push :
 - git add 
 - git commit
 - git push 
+
+git pull
